@@ -1,6 +1,6 @@
 import { Workflow } from "lucide-react";
 import FeatureSection from "./components/FeatureSection";
-import Herosection from "./components/Herosection";
+import Herosection from "./components/HeroSection"
 import Navbar from "./components/Navbar";
 import WorkFlow from "./components/WorkFlow";
 import Pricing from "./components/Pricing";
